@@ -52,7 +52,7 @@
 ### 📬 Contato
 
 - ✉️ Email: guibrito.dev@gmail.com
-- 🌐 [Seu portfólio (se tiver)](https://seusite.com)
+
 - 📱 Instagram: [@guiihermerosa](https://instagram.com/guiihermerosa) 
 
 ---
