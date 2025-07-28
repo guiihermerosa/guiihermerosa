@@ -7,54 +7,26 @@
 
 ---
 
-### 🚀 Sobre mim
 
-- 🔧 Desenvolvedor fullstack em constante evolução
-- 🎯 Buscando sempre unir praticidade e design funcional
-- 📚 Estudando Kotlin, Node.js, PHP, React, APIs e muito mais
-- 🛠️ Amante de projetos maker, automação residencial e sistemas inteligentes
-
----
 
 ### 🧰 Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino"/>
 </p>
 
 ---
-
-### 📌 Projetos em Destaque
-
-
-- 🍽️ [Cardápio Digital](https://github.com/guiihermerosa/Cardapio-Digital) – Sistema web completo de restaurantes com área do cliente e admin
-
----
-
-### 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guiihermerosa&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiihermerosa&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-### 📬 Contato
-
-- ✉️ Email: guiihermerosa.devv@gmail.com
-
-- 📱 Instagram: [@guiihermerosa](https://instagram.com/guiihermerosa) 
-
----
+<div> 
+  <a href="https://instagram.com/guiihermerosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guiihermerosa.devv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guiihermerosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guiihermerosa&style=flat-square&color=blue" alt="profile views"/>
