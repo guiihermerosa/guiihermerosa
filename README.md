@@ -35,8 +35,8 @@
 
 ### 📌 Projetos em Destaque
 
-- 📱 [Infoseg Smart](https://github.com/guiihermerosa/infoseg-smart) – App mobile para controle de porta automática via ESP32 com DDNS
-- 🍽️ [Cardápio Digital QRCode](https://github.com/guiihermerosa/cardapio-qrcode) – Sistema web completo de restaurantes com área do cliente e admin
+
+- 🍽️ [Cardápio Digital](https://github.com/guiihermerosa/Cardapio-Digital) – Sistema web completo de restaurantes com área do cliente e admin
 
 ---
 
