@@ -53,7 +53,7 @@
 
 - ✉️ Email: guibrito.dev@gmail.com
 - 🌐 [Seu portfólio (se tiver)](https://seusite.com)
-- 📱 Instagram: [@seu_user](https://instagram.com/seu_user) *(me avise se quiser incluir)*
+- 📱 Instagram: [@guiihermerosa](https://instagram.com/guiihermerosa) 
 
 ---
 
