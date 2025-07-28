@@ -10,7 +10,6 @@
 ### 🚀 Sobre mim
 
 - 🔧 Desenvolvedor fullstack em constante evolução
-- 💡 Criador do app **Infoseg Smart** e do sistema **Cardápio Digital QRCode**
 - 🎯 Buscando sempre unir praticidade e design funcional
 - 📚 Estudando Kotlin, Node.js, PHP, React, APIs e muito mais
 - 🛠️ Amante de projetos maker, automação residencial e sistemas inteligentes
