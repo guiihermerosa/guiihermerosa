@@ -51,7 +51,7 @@
 
 ### 📬 Contato
 
-- ✉️ Email: guibrito.dev@gmail.com
+- ✉️ Email: guiihermerosa.devv@gmail.com
 
 - 📱 Instagram: [@guiihermerosa](https://instagram.com/guiihermerosa) 
 
