@@ -5,9 +5,6 @@
   <i>Atualmente focado em desenvolvimento web, mobile e automação com ESP32.</i>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="coding gif" width="200"/>
-</p>
 
 ---
 
@@ -26,12 +23,6 @@
 
 ---
 
-### 📈 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guiihermerosa&show_icons=true&theme=radical" alt="Guilherme Brito's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guiihermerosa&theme=radical" alt="Guilherme Brito's GitHub Streak" />
-</p>
 
 ---
 
