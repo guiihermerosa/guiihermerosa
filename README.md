@@ -23,9 +23,6 @@
 
 ---
 
-
----
-
 ### 📫 Contato
 
 <div align="center"> 
