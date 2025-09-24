@@ -25,7 +25,7 @@
 
 ### 💼 Experiência e Formação
 
-- **Estudante de Ciência da Computação** – Universidade XYZ (em andamento)  
+- **Estudante de Ciência da Computação** – Fundação Educacional do município de Assis (em andamento)  
 - **Desenvolvedor Júnior** – Experiência em projetos pessoais e acadêmicos utilizando PHP, Node.js, React e automação com ESP32.  
 - **Projetos de destaque**: desenvolvimento de sistemas web, apps mobile e automação de dispositivos IoT.
 
